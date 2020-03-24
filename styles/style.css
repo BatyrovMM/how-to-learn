@@ -173,6 +173,7 @@
     line-height: 1.2;
     font-size: 18px;
     margin: 20px 0 0;
+    font-weight: normal;
 }
 
 /* Блок Фейнмана */
@@ -240,31 +241,11 @@
 }
 
 .section-title_theme_dark {
-    width: 60%;
-    line-height: 69px;
-    font-size: 60px;
-    font-weight: bold;
     margin: 90px auto 0;
-    text-align: center;
-
-}
-
-.section-subtitle_theme_dark {
-    width: 60%;
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    text-align: center;
-    margin: 20px auto 0;
 }
  
 .table_theme_dark {
-    width: 1100px;
     margin: 0 auto 90px;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    z-index: 2;
 }
 
 .table__cell_theme_dark {
@@ -276,12 +257,6 @@
     font-size: 24px;
     font-weight: bold;
     margin: 0;
-}
-.table__text_theme_dark {
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
-    margin: 20px 0 0;
 }
 
 .kaufman__triangle {
@@ -310,7 +285,7 @@
     margin: 60px auto 40px;
     position: relative;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .footer__column_content_copyright {
@@ -332,7 +307,7 @@
     margin: 0;
 }
 
-.footer__column__content-info {
+.footer__column__content_info {
     margin: 0 auto;
 }
 
@@ -364,7 +339,7 @@
     text-decoration: underline;
 }
 
-.footer__column__content-social {
+.footer__column__content_social {
     line-height: 30px;
     font-size: 18px;
     font-weight: bold;
