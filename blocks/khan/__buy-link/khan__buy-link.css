@@ -2,6 +2,7 @@
     margin: 0 0 0 20px;
     line-height: 42px;
     font-size: 30px;
+    height: fit-content;
     font-weight: normal;
     color: #2f80ed;
     text-decoration: none;

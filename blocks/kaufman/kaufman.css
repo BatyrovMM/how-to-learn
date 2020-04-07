@@ -3,8 +3,9 @@
 .kaufman {
     display: flex;
     position: relative;
+    padding-top: 90px;
     flex-direction: column;
     overflow: hidden;
     background-color: #1F1F1F;
-    color: white;
+    color: #fff;
 }
